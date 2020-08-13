@@ -1,0 +1,45 @@
+body{
+  background-color: turquoise;
+font-size: 15px;
+}
+
+
+.izu{
+  color:red;
+  font-style: italic;
+  font-weight: bold;
+}
+.video{
+  width:400px;
+  height: 150px;
+
+}
+
+p{
+
+  font-style: italic;
+}
+.shwe{
+  text-transform: capitalize;
+  color:red;
+  font-size:15px;
+  font-weight: bold;
+}
+.hello
+{
+  float: right;
+}
+img{
+width: 100px;
+height: 100px
+box-sizing: border-box;
+border: 5px groove black;
+margin: 20px;
+}
+h2{
+  font-style: normal;
+  font-weight: bold;
+  text-align: center;
+  color:red;
+
+}
